@@ -1,0 +1,17 @@
+{
+  "name": "automate-ui-with-cypress---papaya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ci-info": "^3.5.0",
+    "cypress": "^11.0.1",
+    "json-2-csv": "^3.17.2"
+  }
+}
